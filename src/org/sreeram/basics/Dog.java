@@ -11,4 +11,8 @@ public class Dog  extends Animal{
 		System.out.println("Dug a hole");
 	}
 
+	@Override
+	public String getName(){
+		return "muddu";
+	}
 }
