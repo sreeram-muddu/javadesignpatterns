@@ -37,11 +37,13 @@ public class WorkWithAnimals {
 		//System.out.println("THe dog name is "+animal.);
 
 		
-		Giraffe giraffe = new Giraffe();
+		Creature giraffe = new Giraffe();
 		
 		giraffe.setName("muddu giraffe");
 		
 		System.out.println("The giraffe name is "+giraffe.getName());
+		
+		
 		
 	}
 
